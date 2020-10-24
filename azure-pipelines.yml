@@ -8,7 +8,7 @@ trigger:
 
 variables:
   # Azure Resource Manager connection created during pipeline creation
-  azureServiceConnectionId: '29d1e2e8-a0c7-4a70-8faf-4ad2dcfd9a06'
+  azureServiceConnectionId: '674e50a8-f34e-4c05-84e7-0176ffe3046e'
   
   # Web app name
   webAppName: 'Pet-webserver-001'
